@@ -59,4 +59,4 @@ The queries answer practical questions like:
 
 
 ## That’s a wrap  
-Just me exploring fintech data and seeing what stories SQL can tell. If you like the vibe, fork this repo, tweak the queries, and run it on your own data. You might even find something I missed. 🚀  
+Just me exploring fintech data and seeing what stories SQL can tell. If you like the vibe, fork this repo, tweak the queries, and run it on your own data. You might even find something I missed. 
